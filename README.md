@@ -1,10 +1,11 @@
-# Luck of the Draw Programming Project
-This is the project that I submitted for my OCR A-Level Computer Science Programming Project (Component 03), which scored me 70/70.
-This repo contains all of the scripts that I made for the project, and the final Word document.
-This repo does *not* contain the required assets in order to run the project
+# Luck of the Draw – OCR A-Level Computer Science Programming Project
+
+This is the project I submitted for OCR A-Level Computer Science (Component 03), for which I received **70/70**.
+
+This repository contains the source code for the project, along with the final project documentation. The Unity assets required to run the game are not included.
 
 ## Gameplay Demo
 
-Click the thumbnail below to watch a demonstration of the finished game, alongside the main tests indexed in the document
+Watch a demonstration of the finished game, including the main tests documented in the project report.
 
-[![Gameplay Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/DxRd6P6X6fM))
+[![Gameplay Demo](https://img.youtube.com/vi/DxRd6P6X6fM/maxresdefault.jpg)](https://youtu.be/DxRd6P6X6fM)
